@@ -13,7 +13,7 @@ Bottom View:
 ![20221212_220154](https://user-images.githubusercontent.com/115669425/207231817-0e5cabc6-bb94-4bfe-8070-ba6ef58771a2.jpg)
 
 Top view:
-![20221212_220154](https://user-images.githubusercontent.com/115669425/207231864-38d8493f-3959-4d60-b794-9022d30f9f64.jpg)
+![20221212_220346 (1)](https://user-images.githubusercontent.com/115669425/207232169-8636fb7d-7413-4ebd-b69a-0de21a43803d.jpg)
 
 Arduino:
 ![20221212_220417](https://user-images.githubusercontent.com/115669425/207231908-5ee81f50-35a0-41e4-a96f-87e56ce4eb07.jpg)
@@ -21,7 +21,5 @@ Arduino:
 Putting circuit on top of arduino:
 ![20221212_220520](https://user-images.githubusercontent.com/115669425/207231962-e8029b6f-da22-462c-a992-e08e9a99136e.jpg)
 
-Putting 16x2 LCD on top:
+Putting the 16x2 LCD on top:
 ![20221212_220635](https://user-images.githubusercontent.com/115669425/207232043-4c206400-3cc3-4869-998e-d7afccf07196.jpg)
-
-
