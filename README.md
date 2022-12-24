@@ -23,3 +23,7 @@ Putting circuit on top of arduino:
 
 Putting the 16x2 LCD on top:
 ![20221212_220635](https://user-images.githubusercontent.com/115669425/207232043-4c206400-3cc3-4869-998e-d7afccf07196.jpg)
+
+Previous Working LCD:
+![image](https://user-images.githubusercontent.com/115669425/209418540-4b057eae-8bbe-44e9-af2c-8e9cba315ef6.png)
+
